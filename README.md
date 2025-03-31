@@ -9,6 +9,10 @@ Edu Journey is an educational social platform designed to help students share th
 - **Interaction with Posts**: Like, comment, and follow posts and users, with real-time updates.
 - **User Profile Management**: Users can create, update, and delete their profiles and posts.
 - **Notification Management**: Get notified of likes, comments, and shares on your posts.
+
+
+
+#new thingss
   
 ## Technology Stack
 
